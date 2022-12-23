@@ -1,0 +1,53 @@
+.box{
+    display: block;
+    margin: auto;
+}
+.search-bar{
+    background-color: rgb(235, 234, 234);
+    width: auto;
+    margin: 0 100px 5px;
+    text-align: center;
+    
+}
+
+.first-box{
+    background-color: #7EE5DA;
+    text-align: center;
+    width: 33%;
+    margin-left: 100px;
+    padding-top: 10px;
+    height: 65px;
+    float: left;
+    
+
+}
+.second-box{
+    float: left;
+    background-color: #70CCC2;
+    text-align: center;
+    width: 17%;
+    margin-left: 2px;
+    padding: auto;
+    height: 65px;
+    font-size: small;
+    padding-top: 10px;
+    
+}
+.third-box{
+    background-color: #62B3AA;
+    width: 39.4%;
+    float: left;
+    font-size: small;
+    padding: auto;
+    text-align: center;
+    height: 75px;
+    margin-left: 2px;
+    
+}
+.footer{
+    text-align: center;
+    font-size: small;
+    padding: 10px;
+    
+}
+
